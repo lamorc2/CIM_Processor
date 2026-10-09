@@ -1,5 +1,7 @@
 # CIM Processor
 
+Also in this repo: **[yt-pipeline/](yt-pipeline/)** — a local YouTube automation app (Pipecast) with Setup UI, job editor (title/prompts/thumbnails/gameplay), and a script → TTS → FFmpeg → export pipeline. Spec: [`docs/automated-youtube-pipeline-spec.md`](docs/automated-youtube-pipeline-spec.md).
+
 ## Project Overview
 A Python tool that automates the analysis of Confidential Information Memoranda (CIMs) using a multi-pass LLM pipeline. The processor extracts key financial metrics, qualitative insights, and risk factors from PDF documents, presenting them in a structured, color-coded terminal report.
 
